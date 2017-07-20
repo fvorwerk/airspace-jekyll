@@ -93,6 +93,12 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 
+#btn-view-support {
+  background: #dd352e;
+  color: #fff;
+  padding: 10px 20px;
+}
+
 
 /*---------------------------------------------
 					Index Start
@@ -223,7 +229,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background: url("../img/code.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -265,7 +271,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/code.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
